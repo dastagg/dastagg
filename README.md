@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+On 27 Jun, 2024, I did a major clean-up of my repositories.
+- Many Python, Flutter, and other repositories were deleted.
+- all the COBOL related repositories were moved to [dscobol](https://github.com/dscobol).
+
 <!--
 **dastagg/dastagg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
